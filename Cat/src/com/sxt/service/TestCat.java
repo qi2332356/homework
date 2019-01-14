@@ -6,4 +6,6 @@ public interface TestCat {
 	public void add();
 	
 	public void del();
+	
+	void m1();
 }
