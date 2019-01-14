@@ -8,4 +8,6 @@ public interface TestCat {
 	public void del();
 	
 	void m1();
+	
+	void m2();
 }
